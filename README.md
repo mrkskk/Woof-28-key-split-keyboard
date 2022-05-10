@@ -2,7 +2,7 @@
 
 ## Description
 
-If you hate moving your entire hand to reach keys, this 28-key collumar staggered keyboard is for you.
+If you hate moving your entire hand to reach keys, this 28-key collumnar staggered keyboard is for you.
 
 It lacks the inner index collumn, and the upper pinky key has been moved to an easier to reach position. 
 
