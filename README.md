@@ -40,10 +40,13 @@ Links:
 ### How to install the firmware
 
 Either:
-1. Use QMK and download the keymap files here: [QMK keymap](https://github.com/mrkskk/qmk_firmware/tree/my_branch/keyboards/woof)
+1. Use QMK and download the keymap files here:
 OR
 2. Use ZMK and make your own shield. the ZMK keymap is yet to be made
 
+## My keymap
+
+[QMK keymap](https://github.com/mrkskk/qmk_firmware/tree/my_branch/keyboards/woof)
 
 ## License
 It is fully Open-Sourced.
