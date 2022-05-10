@@ -40,7 +40,7 @@ Links:
 ### How to install the firmware
 
 Either:
-1. Use QMK and download the keymap files here:
+1. Use QMK. see my keymap below
 OR
 2. Use ZMK and make your own shield. the ZMK keymap is yet to be made
 
