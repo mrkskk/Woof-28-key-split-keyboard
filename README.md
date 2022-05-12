@@ -13,6 +13,9 @@ It lacks the inner index collumn, and the upper pinky key has been moved to an e
 ![woof3](woof3.jpeg)
 
 ## Design Inspiration:
+
+I named it woof since it sort of looks like a dog's head.
+
 The keyboard uses the same staggering and keyspacing as the Ferris keyboard, but the inner index collumns have been removed. 
 
 The upper row pinky keys have been moved to a position thats easier to reach. This is inspired by the Osprette, although the upper pinky key positions aren't the same.
